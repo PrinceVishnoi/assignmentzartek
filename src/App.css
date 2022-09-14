@@ -1,0 +1,4 @@
+.fullcart{
+  display: flex;
+  flex-wrap: wrap;
+}
